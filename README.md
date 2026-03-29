@@ -73,6 +73,74 @@ Professional	LinkedIn, Kaggle
 ⭐ Conclusion
 This project has significantly enhanced my digital fluency, professional communication, and cybersecurity awareness, preparing me for a successful career in AI & ML.
 📌 Note: All work in this repository is original. Screenshots and content belong to my personal accounts and were created specifically for this course.
+🧩 Task Summary
+🟢 Task 1: Digital Literacy Infographic
+Created a visual infographic using Canva
+Covered topics like:
+Digital Literacy basics
+Online safety
+Useful tools for students
+Exported and added to repository
+🟢 Task 2: Student Digital Portfolio
+Created/updated profiles on:
+
+GitHub
+LinkedIn
+Kaggle
+✔ Added screenshots of all profiles
+✔ Built a professional digital presence
+
+🟢 Task 3: Platforms Exploration
+Part A – Coding Platform
+
+Completed a beginner challenge on:
+HackerRank / CodeChef / HackerEarth
+Part B – Google Workspace
+
+Created a Digital Literacy Quiz (Google Form)
+Included:
+Multiple choice questions
+Short answer question
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSejdNMVxf20croBKVxvIdb_tUBtp3wtuLprxaUU0ihbwgGaNg/viewform?usp=dialog
+
+🟢 Task 4: Email Etiquette
+Wrote two professional emails:
+
+Request for assignment extension
+Internship application email
+Created:
+
+✅ Social Media Do’s & Don’ts checklist
+🟢 Task 5: Cybercrime Awareness
+Created a case study on:
+
+Phishing / UPI Fraud / etc.
+Added:
+
+✅ Prevention checklist
+✅ Safety tips for students
+📢 Included:
+
+National Cyber Crime Portal: https://cybercrime.gov.in
+Helpline: 1930
+📊 Key Learnings
+Importance of digital literacy in academic and professional life
+Building a strong online presence
+Using tools like GitHub, Google Forms, and coding platforms
+Writing professional emails
+Awareness of cyber threats and online safety
+🛠 Tools Used
+Canva =https://www.canva.com
+GitHub = https://github.com
+LinkedIn = https://www.linkedin.com
+Google Forms =https://forms.google.com
+HackerRank =https://www.hackerearth.com
+⭐ Conclusion
+This project helped me understand how to responsibly and effectively use digital platforms. It also improved my communication skills, online presence, and awareness of cybersecurity practices.
+
+📌 Note
+All work in this repository is original and created as part of the Digital Literacy course. Screenshots and content belong to my own accounts and work.
+
 
 
 
