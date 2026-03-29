@@ -18,30 +18,28 @@ The project is divided into 5 tasks, each aligned with course modules.
 
 📂 Repository Structure
 digital-literacy-project/
-│── README.md
-│
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
+README.md
+report/
+Project_Report.pdf
+task-1-presentation/
 │   └── infographic.png
 │
-├── task-2-portfolio/
+task-2-portfolio/
 │   ├── GitHub.png
 │   ├── LinkedIn.jpg
 │   └── Kaggle.png
 │
-├── task-3-platforms/
+task-3-platforms/
 │   ├── Google form and Responses Link.md
 │   ├── google-form.png
 │   └── Hackerranker.png
 │
-├── task-4-email-etiquette/
+task-4-email-etiquette/
 │   ├── email1.pdf
 │   ├── email2.pdf
 │   └── social-media-checklist.md
 │
-├── task-5-cybercrime/
+task-5-cybercrime/
 │   ├── casestudy.md
 │   └── prevention-checklist.md
 🧩 Task Summary
@@ -72,7 +70,7 @@ Created a Digital Literacy Quiz (Google Form)
 Included:
 Multiple choice questions
 Short answer question
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSejdNMVxf20croBKVxvIdb_tUBtp3wtuLprxaUU0ihbwgGaNg/viewform?usp=dialog
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfbeO3ZdJrqFN3qwuEr5a7W0kQQEY8GpicsFkOuAxjcybhUOg/viewform?usp=dialog
 
 🟢 Task 4: Email Etiquette
 Wrote two professional emails:
@@ -85,7 +83,7 @@ Created:
 🟢 Task 5: Cybercrime Awareness
 Created a case study on:
 
-Phishing / UPI Fraud / etc.
+Identity Theft / UPI Fraud / etc.
 Added:
 
 ✅ Prevention checklist
