@@ -79,7 +79,7 @@ This project has significantly enhanced my digital fluency, professional communi
 3.  **Code Blocks:** The folder structure is inside a code block so it maintains its tree-like shape.
 4.  **Tables:** The tools section is in a table, which forces it to stay organized and not turn into a paragraph.
 
-Would you like me to add **direct links to your GitHub or LinkedIn profiles** within the "Student Details" section?
+
 
 
 
