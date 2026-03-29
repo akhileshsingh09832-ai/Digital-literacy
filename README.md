@@ -73,14 +73,6 @@ Professional	LinkedIn, Kaggle
 This project has significantly enhanced my digital fluency, professional communication, and cybersecurity awareness, preparing me for a successful career in AI & ML.
 📌 Note: All work in this repository is original. Screenshots and content belong to my personal accounts and were created specifically for this course.
 
-### Why this works:
-1.  **Empty Lines:** I've added double spacing between every section.
-2.  **Alert Boxes:** I used the `> [!IMPORTANT]` syntax which creates a beautiful blue box on GitHub.
-3.  **Code Blocks:** The folder structure is inside a code block so it maintains its tree-like shape.
-4.  **Tables:** The tools section is in a table, which forces it to stay organized and not turn into a paragraph.
-
-
-
 
 
 
