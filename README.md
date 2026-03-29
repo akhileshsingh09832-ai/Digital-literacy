@@ -1,111 +1,45 @@
-📘 Digital Literacy Project
+📘 Digital Literacy Project Portfolio
+University: VIT Bhopal University
+Course: B.Tech (CSE AI & ML) | Course Code: CSE0001
 👨‍🎓 Student Details
 Name: Akhilesh Singh
-REG NO. : 25BAI10524
-Course: B.Tech (CSE AI & ML)
-University: VIT Bhopal University
-Course Code: CSE0001 – Digital Literacy
+Reg No.: 25BAI10524
+Role: Student Digital Ambassador
 📌 Project Overview
-This repository contains my Digital Literacy Portfolio, created as part of the CSE0001 course at VIT Bhopal University.
-
-As a Student Digital Ambassador, this project demonstrates my ability to:
-
-Use digital tools effectively
-Build a professional online presence
-Communicate responsibly online
-Understand cyber safety and awareness
-The project is divided into 5 tasks, each aligned with course modules.
-
+This repository contains my Digital Literacy Portfolio, demonstrating the ability to use digital tools effectively, build a professional presence, and maintain cyber safety. The project is divided into 5 core tasks aligned with the course modules.
 📂 Repository Structure
+text
 digital-literacy-project/
-README.md
-report/
-Project_Report.pdf
-task-1-presentation/
-│   └── infographic.png
-│
-task-2-portfolio/
-│   ├── GitHub.png
-│   ├── LinkedIn.jpg
-│   └── Kaggle.png
-│
-task-3-platforms/
-│   ├── Google form and Responses Link.md
-│   ├── google-form.png
-│   └── Hackerranker.png
-│
-task-4-email-etiquette/
-│   ├── email1.pdf
-│   ├── email2.pdf
-│   └── social-media-checklist.md
-│
-task-5-cybercrime/
-│   ├── casestudy.md
-│   └── prevention-checklist.md
+├── README.md
+├── report/
+│   └── Project_Report.pdf
+├── task-1-presentation/        # Canva Infographic
+├── task-2-portfolio/           # GitHub, LinkedIn, Kaggle Screenshots
+├── task-3-platforms/           # Coding & Google Workspace
+├── task-4-email-etiquette/     # Professional Emails & Checklist
+└── task-5-cybercrime/          # Case Study & Prevention
+Use code with caution.
+
 🧩 Task Summary
-🟢 Task 1: Digital Literacy Infographic
-Created a visual infographic using Canva
-Covered topics like:
-Digital Literacy basics
-Online safety
-Useful tools for students
-Exported and added to repository
-🟢 Task 2: Student Digital Portfolio
-Created/updated profiles on:
-
-GitHub
-LinkedIn
-Kaggle
-✔ Added screenshots of all profiles
-✔ Built a professional digital presence
-
-🟢 Task 3: Platforms Exploration
-Part A – Coding Platform
-
-Completed a beginner challenge on:
-HackerRank / CodeChef / HackerEarth
-Part B – Google Workspace
-
-Created a Digital Literacy Quiz (Google Form)
-Included:
-Multiple choice questions
-Short answer question
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfbeO3ZdJrqFN3qwuEr5a7W0kQQEY8GpicsFkOuAxjcybhUOg/viewform?usp=dialog
-
-🟢 Task 4: Email Etiquette
-Wrote two professional emails:
-
-Request for assignment extension
-Internship application email
-Created:
-
-✅ Social Media Do’s & Don’ts checklist
-🟢 Task 5: Cybercrime Awareness
-Created a case study on:
-
-Identity Theft / UPI Fraud / etc.
-Added:
-
-✅ Prevention checklist
-✅ Safety tips for students
-📢 Included:
-
-National Cyber Crime Portal: https://cybercrime.gov.in
-Helpline: 1930
-📊 Key Learnings
-Importance of digital literacy in academic and professional life
-Building a strong online presence
-Using tools like GitHub, Google Forms, and coding platforms
-Writing professional emails
-Awareness of cyber threats and online safety
-🛠 Tools Used
-Canva =https://www.canva.com
-GitHub = https://github.com
-LinkedIn = https://www.linkedin.com
-Google Forms =https://forms.google.com
-HackerRank =https://www.hackerearth.com
+Task	Title	Key Activities
+Task 1	Digital Literacy Infographic	Created a visual guide using Canva covering online safety and student tools.
+Task 2	Student Digital Portfolio	Established professional profiles on GitHub, LinkedIn, and Kaggle.
+Task 3	Platforms Exploration	Part A: Completed coding challenges (HackerRank).
+Part B: Designed a Digital Literacy Quiz.
+Task 4	Email Etiquette	Drafted emails for assignment extensions and internships; created a Social Media Do’s & Don’ts list.
+Task 5	Cybercrime Awareness	Developed a case study on Identity Theft/UPI Fraud and a student safety checklist.
+🛡️ Cyber Safety Resources
+National Cyber Crime Portal: cybercrime.gov.in
+Helpline Number: 📞 1930
+📊 Key Learnings & Tools
+What I Learned:
+Building a strong, professional online presence.
+Mastering collaboration tools (GitHub, Google Forms).
+Effective professional communication.
+Identifying and preventing cyber threats.
+Tools Used:
+🎨 Canva | 💻 GitHub | 🔗 LinkedIn | 📝 Google Forms | ⚡ HackerRank
 ⭐ Conclusion
-This project helped me understand how to responsibly and effectively use digital platforms. It also improved my communication skills, online presence, and awareness of cybersecurity practices.
+This project has significantly improved my digital fluency. I have gained the skills to use online platforms responsibly, communicate professionally, and navigate the digital world with enhanced security awareness.
 
-📌 Note
-All work in this repository is original and created as part of the Digital Literacy course. Screenshots and content belong to my own accounts and work.
+Note: All work in this repository is original. Screenshots and content belong to my personal accounts and were created specifically for this course.
