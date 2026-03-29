@@ -35,45 +35,8 @@ digital-literacy-project/
 └── task-5-cybercrime/          # Case Study & Prevention
     ├── casestudy.md
     └── prevention-checklist.md
-🧩 Task Summary
-🟢 Task 1: Digital Literacy Infographic
-Created a visual guide using Canva covering:
-Digital Literacy basics
-Online safety tips
-Essential tools for students
-🟢 Task 2: Student Digital Portfolio
-Established and updated professional profiles on:
-GitHub
-LinkedIn
-Kaggle
-🟢 Task 3: Platforms Exploration
-Coding Platform: Completed beginner challenges on HackerRank.
-Google Workspace: Designed a Digital Literacy Quiz (Google Form).
-Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfbeO3ZdJrqFN3qwuEr5a7W0kQQEY8GpicsFkOuAxjcybhUOg/viewform?usp=dialog
-🟢 Task 4: Email Etiquette
-Drafted two professional emails:
-Request for assignment extension.
-Internship application email.
-Bonus: Created a Social Media Do’s & Don’ts checklist.
-🟢 Task 5: Cybercrime Awareness
-Developed a case study on Identity Theft / UPI Fraud including:
-A prevention checklist.
-Student safety tips.
-🛡️ Cyber Safety Resources
-[!IMPORTANT]
-If you are a victim of cybercrime, contact the authorities immediately:
-National Cyber Crime Portal: cybercrime.gov.in
-Helpline Number: 📞 1930
-🛠️ Tools & Technologies
-Category	Tools Used
-Design	Canva
-Development	GitHub, HackerRank
-Productivity	Google Forms, Google Workspace
-Professional	LinkedIn, Kaggle
-⭐ Conclusion
-This project has significantly enhanced my digital fluency, professional communication, and cybersecurity awareness, preparing me for a successful career in AI & ML.
-📌 Note: All work in this repository is original. Screenshots and content belong to my personal accounts and were created specifically for this course.
-🧩 Task Summary
+
+##🧩 Task Summary
 🟢 Task 1: Digital Literacy Infographic
 Created a visual infographic using Canva
 Covered topics like:
@@ -101,7 +64,7 @@ Created a Digital Literacy Quiz (Google Form)
 Included:
 Multiple choice questions
 Short answer question
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSejdNMVxf20croBKVxvIdb_tUBtp3wtuLprxaUU0ihbwgGaNg/viewform?usp=dialog
+🔗Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfbeO3ZdJrqFN3qwuEr5a7W0kQQEY8GpicsFkOuAxjcybhUOg/viewform?usp=dialog
 
 🟢 Task 4: Email Etiquette
 Wrote two professional emails:
